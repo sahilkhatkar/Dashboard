@@ -2,6 +2,8 @@
 
 How to deploy on vercel
 
+pip freeze > requirements.txt
+
 Step - 1
 # build_files.sh
 pip install -r requirements.txt
